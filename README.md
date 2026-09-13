@@ -8,6 +8,8 @@ I'm an aspiring **AI/Software Engineer** interested in building practical system
 
 I enjoy exploring different areas of technology, from **software engineering and data engineering to machine learning and modern Generative AI**.
 
+<img width="960" height="540" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" src="https://github.com/user-attachments/assets/7a1e824c-11e3-4028-bb1b-3a72b803f760" />
+
 ---
 
 ## 🚀 What I'm Working On
